@@ -1,0 +1,9 @@
+geopy
+pandas
+scikit-learn
+fastapi==0.109.0
+uvicorn
+python-multipart
+streamlit
+typing
+requests
